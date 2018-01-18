@@ -1,0 +1,27 @@
+1.下载 intellij idea
+
+2.跳转：项目之间跳转 command+`
+3.文件之间跳转    -----------
+4.enter action or option name: recent file
+5:打开最近的文件 command+E 
+6:打开最近修改的文件 command+shift+delete
+7:转到最近查看的地方 alt+command+方向键
+8：新建书签创建标记（bookmark） command+F3
+9：收藏函數、：shift+alt+f
+10:安裝插件：字符跳轉插件emacsIdea（help-->find action...--->plugins-->Browse repositories）
+command+J:激活插件，輸入函數字母，輸入高亮字母轉到。
+11：文件目錄跳轉到代碼區：command+1到目錄區，esc到代碼區
+12:搜索類：command+O 
+13:搜索文件：command+shift+O
+14:符號搜索：alt+command+O
+15:字符串搜索：shift+command+f(大小寫match case ,words 按詞組，file mask 文件類型)
+16：列操作control+command+g(當選中的字符有多個全部選中)
+大小寫轉換：shift+command+U
+17：自定義代碼段：help-->find action ....-->live tomplates
+
+18:git代码撤消。command+alft+z
+19: 生成代码getset方法：command+N
+20:重命名：shift+F6
+21:local his idea自动版本管理
+22：与spring关连
+23：与数据库关连
